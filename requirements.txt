@@ -1,0 +1,8 @@
+tensorflow-gpu==2.4.1
+tqdm==4.64.1
+keras-bert==0.86.0
+keras==2.4.3
+numpy==1.19.5
+scikit-learn==0.24.2
+vit-keras==0.1.0
+rich==12.6.0
